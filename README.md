@@ -5,6 +5,7 @@
 ## Description
   Modified and added additional code to configure a working Express.js API to use Sequelize to interact with a MySQL database.
 ## Demo Video
+[![backend demo video link](./assets/eCommerce-screenshot.png)](https://youtu.be/EMvlwAOh9jo "eCommerce Backend Demo")
 
 ## Table of Contents
 - [Installation](#installation)
